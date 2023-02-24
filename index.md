@@ -10,7 +10,7 @@ permalink: /
 # Мы рады приветствовать Вас на нашем сайте
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Здесь Вы можете найти все необходимое для диагностики и обслуживания вашего автомобиля. Мы предоставляем высококачественное и надежное оборудование, которое поможет вам провести быстрый и эффективный анализ и ремонт вашего автомобиля.
 {: .fs-6 .fw-300 }
 
 [Программы и инструкция для оборудования](https://drive.filen.io/f/bb96905e-c6a0-4f83-8f55-d5c268aa116a#x1gwdM2zdTX4tDdzu06ekEi4szQpvGAj){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
