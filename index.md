@@ -1,8 +1,23 @@
 ---
-title: Home
-layout: home
+title: Главная
+layout: default
+nav_order: 1
+description: Ваш проводник в мире автодиагностики
+permalink: /
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 ---
 
+
+# Мы рады приветствовать Вас на нашем сайте
+{: .fs-9 }
+
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+{: .fs-6 .fw-300 }
+
+[Программы и инструкция для оборудования](https://drive.filen.io/f/bb96905e-c6a0-4f83-8f55-d5c268aa116a#x1gwdM2zdTX4tDdzu06ekEi4szQpvGAj){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Программы для ELM (Android)](https://drive.filen.io/f/68e730d7-d91d-4cd3-84ea-b3de9a3d0b15#wMJdF6g7wmNWsdDpjXtnddHe9aeApjME){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
