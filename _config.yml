@@ -7,6 +7,7 @@ url: https://just-the-docs.github.io
 aux_links:
   Filen.io: https://drive.filen.io/f/bb96905e-c6a0-4f83-8f55-d5c268aa116a#x1gwdM2zdTX4tDdzu06ekEi4szQpvGAj
   Mega.nz: https://mega.nz/folder/N8BGBBRC#F4YYgKdUlFZmL2UGqfgK-Q
+aux_links_new_tab: true
 
 # Enable or disable the site search
 # Supports true (default) or false
