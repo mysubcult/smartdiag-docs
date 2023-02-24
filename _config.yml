@@ -12,3 +12,9 @@ aux_links_new_tab: true
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: false
+
+# External navigation links
+nav_external_links:
+  - title: Программы для ELM (Android)
+    url: https://drive.filen.io/f/68e730d7-d91d-4cd3-84ea-b3de9a3d0b15#wMJdF6g7wmNWsdDpjXtnddHe9aeApjME
+    hide_icon: false # set to true to hide the external link icon - defaults to false
